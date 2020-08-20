@@ -42,7 +42,6 @@
     })
  }
 
-
  window.addEventListener('load',()=>{
     
     navigator.geolocation.getCurrentPosition(data=>{
